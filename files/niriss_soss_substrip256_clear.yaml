@@ -5,9 +5,9 @@ Inst:
 
 Readout:
   readpatt: NISRAPID      #Readout pattern (RAPID, BRIGHT2, etc)
-  ngroup: 3             #Number of groups in integration
-  nint: 3          #Number of integrations per exposure
-  nframe: 2
+  ngroup: 6             #Number of groups in integration
+  nint: 420          #Number of integrations per exposure
+  nframe: 1
   nskip: 0
   resets_bet_ints: 1 #Number of detector resets between integrations
   array_name: NIS_SUBSTRIP256    #Name of array from pysiaf (NIS_SOSSFULL, NIS_SUBSTRIP256, NIS_SUBSTRIP96)
