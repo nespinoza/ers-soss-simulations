@@ -121,8 +121,8 @@ Output:
   target_name: WASP43  # Name of target
   target_ra: 154.91  # RA of the target, from APT file.
   target_dec: -9.81 # Dec of the target, from APT file.
-  date_obs: '2022-08-27'  #Date of observation
-  time_obs: '12:49:00.00'  #Time of observation
+  date_obs: '2022-12-25'  #Date of observation
+  time_obs: '02:46:00.00'  #Time of observation
   obs_template: 'NIRISS SOSS'  #Observation template
   primary_dither_type: NONE  #Primary dither pattern name
   total_primary_dither_positions: 1  #Total number of primary dither positions
